@@ -11,3 +11,4 @@
 
 ###Projects
 [CaptionedScene](https://studio.code.org/projects/gamelab/SrEECsy168MHkuKZjo2IrUDnHRigl40-JI9niJ2Os5g)
+>In this project, my partner and I used our imaginations to create a unique winter/Christmas scene. We used random variables to change the color of the backgroung everytime, rectangles, ellipses, and arcs. 
