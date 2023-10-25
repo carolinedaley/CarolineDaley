@@ -17,7 +17,7 @@
 [Animation]
 >
 
-[Interactive Card] (https://studio.code.org/projects/gamelab/Vo0KUX6q_fi51u6RBtnpXRGNUtospT9MC54LAFhna8U/)
+[Interactive Card](https://studio.code.org/projects/gamelab/Vo0KUX6q_fi51u6RBtnpXRGNUtospT9MC54LAFhna8U/)
 > In this interactive card my partner and I made a Happy Birthday card. The card shows a boy who recieves presents and his mood changes from sad to happy. The presents also change appearance to the actual object, using keyboard input. Also, we used balloons that travel from both sides of the screen to the other sides. Lastly, we also have a balloon that can be moved across the screen using the arrow keys. 
 
 [Side Scroller]
