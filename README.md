@@ -20,11 +20,11 @@
 [Interactive Card](https://studio.code.org/projects/gamelab/Vo0KUX6q_fi51u6RBtnpXRGNUtospT9MC54LAFhna8U/)
 > In this interactive card my partner and I made a Happy Birthday card. The card shows a boy who recieves presents and his mood changes from sad to happy. The presents also change appearance to the actual object, using keyboard input. Also, we used balloons that travel from both sides of the screen to the other sides. Lastly, we also have a balloon that can be moved across the screen using the arrow keys. 
 
-[Side Scroller]
->
+[Side Scroller](https://studio.code.org/projects/gamelab/tVX6-0qUsbbSR49L7kSqQdGy75UyIxLbfMXXPpQDsk4)
+> In this project, my partner and I used different sprites and conditions to make a game. In the game, the girl had to move to avoid the bug which would hurt her health. She also had to move to collect pumpkins and up her score. 
 
-[Flyer Game]
->
+[Flyer Game](https://studio.code.org/projects/gamelab/aZghPkpIay0TdICeS4BrRlH0bkFplv83uDNrcx3u-yY)
+> In this project, we used several conditions, sprites and if statements to allow multiple different types of sprites to move. The hippo, which was the player, had to move using arrows on the keyboard. The germs randomly generted at sides of the screen and traveled along the sreen to the other side. When they reache dthe other side, they would loop back and start at a random location. Also, these germs displaced the hippo whne the hippo touched them. Lastly, the blueberry was the aim for the hippo. When the hippo touched the blueberry, the blueberry regenerated to a new random location. 
 
 [Project - Design a Game]
 >
