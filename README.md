@@ -23,7 +23,11 @@
 [Flyer Game](https://studio.code.org/projects/gamelab/aZghPkpIay0TdICeS4BrRlH0bkFplv83uDNrcx3u-yY)
 > In this project, we used several conditions, sprites and if statements to allow multiple different types of sprites to move. The hippo, which was the player, had to move using arrows on the keyboard. The germs randomly generted at sides of the screen and traveled along the sreen to the other side. When they reache dthe other side, they would loop back and start at a random location. Also, these germs displaced the hippo whne the hippo touched them. Lastly, the blueberry was the aim for the hippo. When the hippo touched the blueberry, the blueberry regenerated to a new random location. 
 
-[Project - Design a Game]
+[Platform Game](https://studio.code.org/projects/gamelab/AymshRKc2_AstfhG-XqVvRUBpAY8fvb0nAtpoYvdaTo)
+> In this project, I used multiple different variables and interactions. Th eplatforms displace he character, and the character gathered points by touching the candy. If the character got outside of the screen, the game was over. For my sprites, I used an alien and two pieces of candy. The background changes color as points get to a certain number. 
+
+[Project - Design a Game](https://studio.code.org/projects/gamelab/m8Lbat-HYXCklt6wrD3MbVsFhI6_m6k5z3ugpqzJDA8)
+> 
 
 
 
