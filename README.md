@@ -27,7 +27,7 @@
 > In this project, I used multiple different variables and interactions. Th eplatforms displace he character, and the character gathered points by touching the candy. If the character got outside of the screen, the game was over. For my sprites, I used an alien and two pieces of candy. The background changes color as points get to a certain number. 
 
 [Project - Design a Game](https://studio.code.org/projects/gamelab/m8Lbat-HYXCklt6wrD3MbVsFhI6_m6k5z3ugpqzJDA8)
-> 
+> In this project, I used changing backgrounds, which was a new idea. I continued to use several different sprites. These sprites included a lion, an alien, a cookie, and a germ. All of the sprites had different interactions with one another. When the lion touched the alien, the alien was displaced. When the cookie tocuhed the alien, the alien gained a point. When the germ touched the alien, the alien lost a point. When a certain number of points were gained (5), the background changed. The background also changed when the lion was able to move the alien off of the screen. I used multiple functions and if/then statements to comeplete this project. 
 
 
 
