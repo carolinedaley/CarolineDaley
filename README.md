@@ -7,6 +7,7 @@
 ![octocat-1696338263662-removebg-preview](https://github.com/carolinedaley/CarolineDaley/assets/146843363/1f4b5942-7bb3-441a-a4da-567d3ba5da1d)
 
 ##CODE.ORG PROJECTS
+
 [RobotFace](https://CarolineDaley.github.io/RobotFace/)
 >In this project I used shapes, variables, and randomness to express my creativity and created a Random Robot Face. 
 
@@ -32,6 +33,7 @@
 ##MIT APP INVENTOR PROJECTS
 
 ##CMU PYTHON PROJECTS
+
 [CMU Creative Task #1](https://academy.cs.cmu.edu/sharing/deepSkyBlueSnail5068)
 > In this project, I created a birthdya cake. I used multiple different shapes and colors. Some of the shapes included circles, lines, stars, polygons and ovals. Additionally, I used different cololors to add more detail to the drawing. I included a graidnet to give the background more dimension as well. I organized the code by seperating each different part of the picture, allowing for the drawing to be organized and neat.
 
