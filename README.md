@@ -6,8 +6,7 @@
 
 ![octocat-1696338263662-removebg-preview](https://github.com/carolinedaley/CarolineDaley/assets/146843363/1f4b5942-7bb3-441a-a4da-567d3ba5da1d)
 
-###Code.org Projects
-
+##CODE.ORG PROJECTS
 [RobotFace](https://CarolineDaley.github.io/RobotFace/)
 >In this project I used shapes, variables, and randomness to express my creativity and created a Random Robot Face. 
 
@@ -27,7 +26,17 @@
 > In this project, I used multiple different variables and interactions. Th eplatforms displace he character, and the character gathered points by touching the candy. If the character got outside of the screen, the game was over. For my sprites, I used an alien and two pieces of candy. The background changes color as points get to a certain number. 
 
 [Project - Design a Game](https://studio.code.org/projects/gamelab/m8Lbat-HYXCklt6wrD3MbVsFhI6_m6k5z3ugpqzJDA8)
-> In this project, I used changing backgrounds, which was a new idea. I continued to use several different sprites. These sprites included a lion, an alien, a cookie, and a germ. All of the sprites had different interactions with one another. When the lion touched the alien, the alien was displaced. When the cookie tocuhed the alien, the alien gained a point. When the germ touched the alien, the alien lost a point. When a certain number of points were gained (5), the background changed. The background also changed when the lion was able to move the alien off of the screen. I used multiple functions and if/then statements to comeplete this project. 
+> In this project, I used changing backgrounds, which was a new idea. I continued to use several different sprites. These sprites included a lion, an alien, a cookie, and a germ. All of the sprites had different interactions with one another. When the lion touched the alien, the alien was displaced. When the cookie tocuhed the alien, the alien gained a point. When the germ touched the alien, the alien lost a point. When a certain number of points were gained (5), the background changed. The background also changed when the lion was able to move the alien off of the screen. I used multiple functions and if/then statements to comeplete this project.
+
+
+##MIT APP INVENTOR PROJECTS
+
+##CMU PYTHON PROJECTS
+[CMU Creative Task #1](https://academy.cs.cmu.edu/sharing/deepSkyBlueSnail5068)
+> In this project, I created a birthdya cake. I used multiple different shapes and colors. Some of the shapes included circles, lines, stars, polygons and ovals. Additionally, I used different cololors to add more detail to the drawing. I included a graidnet to give the background more dimension as well. I organized the code by seperating each different part of the picture, allowing for the drawing to be organized and neat.
+
+[CMU Creative Task #2](https://academy.cs.cmu.edu/sharing/antiqueWhiteEagle3373)
+> For this creative task, we used multiple different shapes and colors to create a boat and ocean scene. We used definitions and onMousePress and onMouseRelease to show two different scenes. When the mouse was pressed, the scene turned into night, but otherwise, the scene was during the daytime. We used opacity to create a sun spreading light across the ocean that created reflections. 
 
 
 
