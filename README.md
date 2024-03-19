@@ -33,7 +33,17 @@
 ### MIT APP INVENTOR PROJECTS
 
 [Hello It's Me](https://gallery.appinventor.mit.edu/?galleryid=ea04e304-54e6-4bdc-be48-71f30607aa63)
-> In this project I imported pictures of animal and coded it so when you click on an animal, that animal makes a sound. 
+> In this project I imported pictures of animal and coded it so when you click on an animal, that animal makes a sound.
+
+[My Piano](https://gallery.appinventor.mit.edu/?galleryid=2c1b0a87-ff99-458f-86e1-19a4e33bf423)
+> In this project, I associated sounds with different keys on the colored piano to allow the corresponding sound to play.
+
+[Music Maker]( https://gallery.appinventor.mit.edu/?galleryid=93b0af2c-3bc7-483d-a7f1-4a8cb5efae7b)
+> In this project I imported sounds to correspond with the picture that is clicked on.
+
+[Find the Gold](https://gallery.appinventor.mit.edu/?galleryid=61f8de15-6f64-4007-8aca-2218c08a517a)
+> In this project, we coded it os when the tablet is tilted a ball moves and the gold can be found. This incorporates actions from a person using the game, as well as coding. 
+
 
 ### CMU PYTHON PROJECTS
 
