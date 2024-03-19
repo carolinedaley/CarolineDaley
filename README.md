@@ -32,6 +32,9 @@
 
 ### MIT APP INVENTOR PROJECTS
 
+[Hello It's Me](https://gallery.appinventor.mit.edu/?galleryid=ea04e304-54e6-4bdc-be48-71f30607aa63)
+> In this project I imported pictures of animal and coded it so when you click on an animal, that animal makes a sound. 
+
 ### CMU PYTHON PROJECTS
 
 [CMU Creative Task #1](https://academy.cs.cmu.edu/sharing/deepSkyBlueSnail5068)
