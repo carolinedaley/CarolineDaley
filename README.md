@@ -53,6 +53,8 @@
 [CMU Creative Task #2](https://academy.cs.cmu.edu/sharing/antiqueWhiteEagle3373)
 > For this creative task, we used multiple different shapes and colors to create a boat and ocean scene. We used definitions and onMousePress and onMouseRelease to show two different scenes. When the mouse was pressed, the scene turned into night, but otherwise, the scene was during the daytime. We used opacity to create a sun spreading light across the ocean that created reflections. 
 
+[CMU Collaboritive Task #3](https://academy.cs.cmu.edu/sharing/blanchedAlmondDog9620)
+> For this project, we used gradients, colors, and multiple shapes to be able to create a flower and sky scene. We used an opacity to make the sun fade away everytime the mouse is clicked. Also, when the mouse is clicked, a new flower would appear from the vase and the point where the mouse clicked. Also, on mouse click, the color of the background changed. 
 
 
 
