@@ -53,8 +53,11 @@
 [CMU Creative Task #2](https://academy.cs.cmu.edu/sharing/antiqueWhiteEagle3373)
 > For this creative task, we used multiple different shapes and colors to create a boat and ocean scene. We used definitions and onMousePress and onMouseRelease to show two different scenes. When the mouse was pressed, the scene turned into night, but otherwise, the scene was during the daytime. We used opacity to create a sun spreading light across the ocean that created reflections. 
 
-[CMU Collaboritive Task #3](https://academy.cs.cmu.edu/sharing/blanchedAlmondDog9620)
-> For this project, we used gradients, colors, and multiple shapes to be able to create a flower and sky scene. We used an opacity to make the sun fade away everytime the mouse is clicked. Also, when the mouse is clicked, a new flower would appear from the vase and the point where the mouse clicked. Also, on mouse click, the color of the background changed. 
+[CMU Creative Task #3](https://academy.cs.cmu.edu/sharing/blanchedAlmondDog9620)
+> For this project, we used gradients, colors, and multiple shapes to be able to create a flower and sky scene. We used an opacity to make the sun fade away everytime the mouse is clicked. Also, when the mouse is clicked, a new flower would appear from the vase and the point where the mouse clicked. Also, on mouse click, the color of the background changed.
+
+[CMU Creative Task #4](https://academy.cs.cmu.edu/sharing/papayaWhipBird8638).
+> For this project, we utilized the keyboard, opacity, lines, and polygons. We created our lion shape using multiple points in a polygon. Then, we separated the screen into a top and bottom half that both had different colors. When keys were pressed (WASD) or the mouse was clicked, the lions fill would change color based on where it was located. There would be a gradient if the lion was placed in the middle. 
 
 
 
