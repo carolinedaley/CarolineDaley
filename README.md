@@ -59,6 +59,7 @@
 [CMU Creative Task #4](https://academy.cs.cmu.edu/sharing/papayaWhipBird8638).
 > For this project, we utilized the keyboard, opacity, lines, and polygons. We created our lion shape using multiple points in a polygon. Then, we separated the screen into a top and bottom half that both had different colors. When keys were pressed (WASD) or the mouse was clicked, the lions fill would change color based on where it was located. There would be a gradient if the lion was placed in the middle. 
 
+[CMU Creative Task #5](https://academy.cs.cmu.edu/sharing/ivoryCheetah7403).
 
 
 
