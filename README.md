@@ -59,7 +59,11 @@
 [CMU Creative Task #4](https://academy.cs.cmu.edu/sharing/papayaWhipBird8638).
 > For this project, we utilized the keyboard, opacity, lines, and polygons. We created our lion shape using multiple points in a polygon. Then, we separated the screen into a top and bottom half that both had different colors. When keys were pressed (WASD) or the mouse was clicked, the lions fill would change color based on where it was located. There would be a gradient if the lion was placed in the middle. 
 
-[CMU Creative Task #5](https://academy.cs.cmu.edu/sharing/ivoryCheetah7403).
+[CMU Creative Task #5](https://academy.cs.cmu.edu/sharing/cornSilkSnail3234).
+> For this project we created a city scene with birds and a person. The birds move with the keys and change colors in each four quadrents they entered. The birds opacity also faded as it got closer to the sun. We used multiple different colors and shapes to make the city scene. 
+
+[CMU Creative Task #6](https://academy.cs.cmu.edu/sharing/ivoryCheetah7403).
+> For this project, we created a house setting with a street and clouds. the clouds have rain falling, which we did with onStep. This allowed for the rain to be continuously falling. We used multiple different shapes and colors to create the street and the house. 
 
 
 
